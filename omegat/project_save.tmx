@@ -4,6 +4,14 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Chinese tech firms freeze AI tools in crackdown on exam cheats</seg>
+      </tuv>
+      <tuv lang="ru" changeid="user" changedate="20251007T101354Z" creationid="user" creationdate="20251007T101354Z">
+        <seg>Технологические компании Китая блокируют инструменты ИИ в период экзаменов</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
