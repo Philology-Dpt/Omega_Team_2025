@@ -5,11 +5,12 @@
   <body>
 <!-- Default translations -->
     <tu>
+      <note>Проверка работы с примечаниями</note>
       <tuv lang="en-GB">
         <seg>Chinese tech firms freeze AI tools in crackdown on exam cheats</seg>
       </tuv>
-      <tuv lang="ru" changeid="user" changedate="20251007T101354Z" creationid="user" creationdate="20251007T101354Z">
-        <seg>Технологические компании Китая блокируют инструменты ИИ в период экзаменов</seg>
+      <tuv lang="ru" changeid="user" changedate="20251007T102215Z" creationid="user" creationdate="20251007T101354Z">
+        <seg>Технологические компании Китая блокируют инструменты ИИ в период государственных экзаменов</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
