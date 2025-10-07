@@ -13,6 +13,14 @@
         <seg>Технологические компании Китая блокируют инструменты ИИ в период государственных экзаменов</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Suspension comes as 13m students take four-day gaokao tests for limited spots at country’s universities</seg>
+      </tuv>
+      <tuv lang="ru" changeid="user" changedate="20251007T103507Z" creationid="user" creationdate="20251007T103507Z">
+        <seg>Причиной блокировки является четырехдневное тестирование "гаокао", которое проходят 14 миллионов выпускников, желающих поступить в вузы, количество мест которых в Китае строго ограничено</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
