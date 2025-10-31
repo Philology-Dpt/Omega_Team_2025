@@ -21,6 +21,14 @@
         <seg>Причиной блокирови является четырехдневное тестирование "гаокао", которое проходят 14 миллионов выпускников, желающих поступить в вузы, количество мест которых в Китае строго ограничено</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The app responded: “During the college entrance examination, according to relevant requirements, the question answering service will be suspended”.</seg>
+      </tuv>
+      <tuv lang="ru" changeid="Andrei" changedate="20251031T144541Z" creationid="Andrei" creationdate="20251031T144541Z">
+        <seg>Приложение ответило: Во время вступительных экзаменов в университет сервис с ответами на вопросы будет недоступен</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
